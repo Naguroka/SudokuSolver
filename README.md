@@ -3,6 +3,8 @@
 ## Overview
 This Sudoku Solver is a Python-based tool that efficiently solves Sudoku puzzles. It uses a graphical user interface (GUI) developed with `tkinter`, making it user-friendly and accessible for both beginners and advanced users.
 
+![Sudoku Solver Interface](https://raw.githubusercontent.com/Naguroka/SudokuSolver/main/SudokuSolver.png)
+
 ## Features
 - **Graphical User Interface:** Easy to use interface built with `tkinter`.
 - **Efficient Algorithm:** Implements a robust algorithm for quickly solving Sudoku puzzles.
